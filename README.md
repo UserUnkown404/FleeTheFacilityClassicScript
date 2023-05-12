@@ -1,2 +1,0 @@
-# FleeTheFacilityClassicScript
-the classic script
